@@ -1,0 +1,3 @@
+[submodule "yhttpd"]
+	path = yhttpd
+	url = http://github.com/leetking/yhttpd.git
